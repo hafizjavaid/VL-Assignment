@@ -1,0 +1,32 @@
+.banner::before,
+.banner .banner-text .signin-btn:hover,
+.banner nav .login-btn:hover ,
+.about .about-img .play-btn,
+.about .about-img::before,
+.about .justify-center .section-title h1::after,
+.features .justify-center .section-title h1::after,
+.technology .justify-center .section-title h1::after,
+.contact .justify-center .section-title h1::after,
+.contact .contact-form form .send-btn,
+.team,
+.sidenav
+{
+    background: #ec9412;
+}
+.banner .banner-text .signin-btn,
+.about .about-text a,
+.features .row .single-feature .feature-content a,
+.contact .contact-form form .send-btn:hover,
+.justify-center .section-title h1 span 
+ {
+    color: #ec9412;
+}
+.about .about-img .play-btn:hover,
+.contact .contact-form form .send-btn
+{
+    border-color: #ec9412;
+}
+
+.technology .single-tech span path{
+    fill: #ec9412;
+}
